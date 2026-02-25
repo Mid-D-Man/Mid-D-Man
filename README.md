@@ -24,7 +24,10 @@ I'm a game developer and software engineer based in **Nigeria**, and founder of 
   <img src="https://skillicons.dev/icons?i=unity,cs,rust,js,html,css&perline=6&theme=dark" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,blazor,react,firebase,figma,blender&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dotnet,blazor,react,firebase,supabase,blender&perline=6&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Penpot-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNEg5VjhoMnY4em00IDBoLTJWOGgydjh6Ii8+PC9zdmc+" />
 </p>
 
 ---
@@ -42,8 +45,12 @@ I'm a game developer and software engineer based in **Nigeria**, and founder of 
 ## Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mid-d-man&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4169e1&icon_color=4169e1" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mid-d-man&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4169e1" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mid-d-man&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4169e1&icon_color=4169e1&cache_seconds=1800" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mid-d-man&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4169e1&cache_seconds=1800" height="150" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=mid-d-man&theme=tokyonight&hide_border=true&background=0d1117&ring=4169e1&fire=dc143c&currStreakLabel=4169e1" height="150" />
 </p>
 
 ---
