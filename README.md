@@ -4,7 +4,7 @@
 
 ---
 
-I'm a game developer and software engineer based in **Nigeria**, and founder of **MidManStudio**. I build games, tools, and web experiences — with a focus on doing things the interesting way.
+I'm a game developer and software engineer based in **Nigeria**, and founder of **MidManStudio**. I build games, tools, and web experiences — with a focus on doing things the interesting way...
 
 <br/>
 
