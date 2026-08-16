@@ -4,13 +4,13 @@
 
 ---
 
-I'm a game developer and software engineer based in **Nigeria**, and founder of **MidManStudio**. I build games, tools, and web experiences — with a focus on doing things the interesting way...
+I'm a game developer and software engineer with **8+ years** of experience, based in **Nigeria**, and founder of **MidManStudio**. I build games, tools, and web experiences — with a focus on doing things the interesting way...
 
 <br/>
 
 <img src="https://img.shields.io/badge/Primary_Focus-Game_Development-0d1117?style=flat-square&logo=unity&logoColor=4169e1&labelColor=0d1117&color=4169e1" />
 <br/>
-<img src="https://img.shields.io/badge/Currently_Building-DixScript--Rust-0d1117?style=flat-square&logo=rust&logoColor=dc143c&labelColor=0d1117&color=dc143c" />
+<img src="https://img.shields.io/badge/Published-DixScript--Rust-0d1117?style=flat-square&logo=rust&logoColor=2ea043&labelColor=0d1117&color=2ea043" />
 <br/>
 <img src="https://img.shields.io/badge/Portfolio-Built_in_Rust_%2B_Leptos_%2F_WASM-0d1117?style=flat-square&logo=webassembly&logoColor=58a6ff&labelColor=0d1117&color=58a6ff" />
 <br/>
@@ -27,6 +27,9 @@ I'm a game developer and software engineer based in **Nigeria**, and founder of 
   <img src="https://skillicons.dev/icons?i=dotnet,blazor,react,firebase,supabase,blender&perline=6&theme=dark" />
 </p>
 <p>
+  <img src="https://skillicons.dev/icons?i=svelte,tauri,cloudflare&perline=6&theme=dark" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/Penpot-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNEg5VjhoMnY4em00IDBoLTJWOGgydjh6Ii8+PC9zdmc+" />
 </p>
 
@@ -37,7 +40,11 @@ I'm a game developer and software engineer based in **Nigeria**, and founder of 
 | Project | Description | Stack |
 |---|---|---|
 | [AirCode](https://mid-d-man.github.io/AirCode/) | QR-based attendance platform for higher institutions | Blazor, C#, Firebase |
-| [DixScript-Rust](https://github.com/Mid-D-Man/DixScript-Rust) | Config + code + crypto in one `.mdix` format | Rust |
+| [DixScript-Rust](https://github.com/Mid-D-Man/DixScript-Rust) | Config + code + crypto in one `.mdix` format — core published on crates.io, npm, PyPI & NuGet | Rust |
+| [mid-qr](https://github.com/MidManStudio/mid_qr_code_lib) | QR code generation & scanning — Rust/WASM core, shared by an npm package and a Blazor component library | Rust, WASM, Blazor |
+| [mdix-scaffold](https://github.com/Mid-D-Man/mdix-scaffold) | Declarative, idempotent project-structure generator, powered by DixScript | Rust, DixScript |
+| [MSX](https://github.com/Mid-D-Man/msx) | Vector graphics format authored in DixScript, compressed with MBFA | Rust |
+| [MidManStudio Unity](https://github.com/MidManStudio/MidManStudio_Unity) | Unity package monorepo — utilities & netcode packages | C#, Unity |
 | [Portfolio Site](https://mid-d-man.github.io) | Compiled to WebAssembly, deployed via GitHub Actions | Rust, Leptos |
 
 ---
