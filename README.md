@@ -66,8 +66,14 @@ I'm a game developer and software engineer with **8+ years** of experience, base
 ## Get in Touch
 
 <p>
-  <a href="mailto:midmanstudio@gmail.com">
-    <img src="https://img.shields.io/badge/midmanstudio%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117" />
+  <a href="mailto:midmanstudio@proton.me">
+    <img src="https://img.shields.io/badge/midmanstudio%40proton.me-0d1117?style=for-the-badge&logo=protonmail&logoColor=6D4AFF&labelColor=0d1117" />
+  </a>
+  <a href="https://t.me/midmanstudio">
+    <img src="https://img.shields.io/badge/t.me%2Fmidmanstudio-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=0d1117" />
+  </a>
+  <a href="https://discord.gg/vtxVx4XNU">
+    <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=0d1117" />
   </a>
   <a href="https://mid-d-man.github.io">
     <img src="https://img.shields.io/badge/mid--d--man.github.io-0d1117?style=for-the-badge&logo=githubpages&logoColor=4169e1&labelColor=0d1117" />
