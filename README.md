@@ -12,8 +12,6 @@ I'm a game developer and software engineer with **8+ years** of experience, base
 <br/>
 <img src="https://img.shields.io/badge/Published-DixScript--Rust-0d1117?style=flat-square&logo=rust&logoColor=2ea043&labelColor=0d1117&color=2ea043" />
 <br/>
-<img src="https://img.shields.io/badge/Portfolio-Built_in_Rust_%2B_Leptos_%2F_WASM-0d1117?style=flat-square&logo=webassembly&logoColor=58a6ff&labelColor=0d1117&color=58a6ff" />
-<br/>
 <img src="https://img.shields.io/badge/Location-Nigeria-0d1117?style=flat-square&logo=googlemaps&logoColor=888&labelColor=0d1117&color=333" />
 
 ---
@@ -31,6 +29,7 @@ I'm a game developer and software engineer with **8+ years** of experience, base
 </p>
 <p>
   <img src="https://img.shields.io/badge/raylib-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Penpot-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNEg5VjhoMnY4em00IDBoLTJWOGgydjh6Ii8+PC9zdmc+" />
 </p>
 
@@ -46,7 +45,6 @@ I'm a game developer and software engineer with **8+ years** of experience, base
 | [mdix-scaffold](https://github.com/Mid-D-Man/mdix-scaffold) | Declarative, idempotent project-structure generator, powered by DixScript | Rust, DixScript |
 | [MSX](https://github.com/Mid-D-Man/msx) | Vector graphics format authored in DixScript, compressed with MBFA | Rust |
 | [MidManStudio Unity](https://github.com/MidManStudio/MidManStudio_Unity) | Unity package monorepo — utilities, audio, netcode, patterns & projectile system packages | C#, Unity |
-| [Portfolio Site](https://mid-d-man.github.io) | Compiled to WebAssembly, deployed via GitHub Actions | Rust, Leptos |
 
 ---
 
